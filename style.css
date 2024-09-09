@@ -1,0 +1,8 @@
+body {
+  background-color: aquamarine;
+}
+a {
+  display: block;
+  padding: 15px;
+  background-color: rgb(187, 255, 0);
+}
